@@ -2,3 +2,7 @@
 	path = prometheusmsla/public
 	url = https://github.com/StefanRaatz/stefanraatz.github.io
 	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/StefanRaatz/stefanraatz.github.io
+	branch = main
