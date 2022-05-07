@@ -1,4 +1,4 @@
 [submodule "prometheusmsla/public"]
 	path = prometheusmsla/public
-	url = https://github.com/StefanRaatz/gingerbeard.github.io
+	url = https://github.com/StefanRaatz/stefanraatz.github.io
 	branch = main
