@@ -1,4 +1,4 @@
-baseURL = 'https://stefanraatz.github.io/'
+baseURL = 'https://stefanraatz.github.io/gingerbeard.github.io'
 languageCode = 'en-us'
 title = 'Prometheus MSLA'
 theme = 'dimension'
